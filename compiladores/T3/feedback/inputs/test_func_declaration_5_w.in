@@ -1,2 +1,0 @@
-// TP2 missing } 
-main: function void (argc: integer, argb: integer, arga: integer) = { return ;
